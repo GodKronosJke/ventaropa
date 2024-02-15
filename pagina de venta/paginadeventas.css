@@ -1,0 +1,182 @@
+/* * {
+	
+	margin: 0;
+}
+
+body {
+    background: #d4ddf7;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+.container{
+
+	text-align: right;
+padding: 40px;
+gap: 60px;
+  border: bottom 20px; ;
+}
+
+
+.container1{
+padding: 40px;
+  color: rgb(23, 23, 25);
+}
+.container2{
+ 
+	padding: 0%;
+	text-align: right;
+	margin: 90px;
+	margin-bottom: 10%;
+}
+
+
+.container3{
+text-align: left
+
+}
+
+.textos{
+	display: grid;
+		grid-template-rows: 1fr auto;
+		font-size: 10%;
+}
+p{
+    font-size: 21px;
+    margin: 15px 20px;
+}
+
+.card{
+	width:30% ;
+	display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 20px;
+	font-size: 40% ;
+	margin: 5%;
+}
+
+.container4{
+	display:grid
+	justify-content
+} */
+
+
+*{
+    margin: 0;
+
+}
+
+body {
+    background: rgb(234, 239, 240);
+	color: rgb(84, 85, 88);
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.container{
+	display: flex;
+	position: relative;
+	padding: 3%;
+	margin: 2%;
+	justify-content: flex-end;
+}
+
+.btn-0{
+	width: 100px;
+	height: 20px;
+	background-color: rgb(234, 239, 240);
+	display: inline-block
+}
+
+.btn-1{
+	width: 90px;
+	height: 20px;
+	background-color: rgb(234, 239, 240);
+}
+
+.btn-2{
+	width: 60px;
+	height: 20px;
+	background-color: rgb(234, 239, 240);
+}
+
+.btn-3{
+	width: 70px;
+	height: 20px;
+	background-color: rgb(234, 239, 240);
+}
+
+.btn-4{
+	width: 80px;
+	height: 20px;
+	background-color: rgb(234, 239, 240);
+}
+
+.btn-5{
+	width: 60px;
+	height: 20px;
+	background-color: rgb(234, 239, 240);
+}
+
+.btn-6{
+	width: 50px;
+	height: 20px;
+	background-color: rgb(234, 239, 240);
+}
+.btn-7{
+	width: 40px;
+	height: 20px;
+	background-color: rgb(234, 239, 240);
+}
+
+.container1{
+	padding: 5%;
+	display: flex;
+	position: relative;
+	font-size: x-large;
+} 
+
+/*  */
+.container1.
+
+/*  */
+
+.fontletra{
+    color: rgb(134, 147, 158);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.word{
+	font-size: small;
+	display: flex;
+	margin-left: -100px;
+	
+}
+
+.container2{
+	text-align: right;
+	padding: 5%;
+	position: relative;
+	background-color: transparent;
+	border: none;
+}
+
+
+.submit{
+	width: 20px;
+	height: 20px;
+}
+
+
+
+
+/* https://webdesign.tutsplus.com/es/experimentos-de-css-con-un-formulario-de-busqueda-y-su-boton--cms-22069t
+https://onecompiler.com/html/3zrjk28pq */
+
+/* ........................
+........................ */
+
+
